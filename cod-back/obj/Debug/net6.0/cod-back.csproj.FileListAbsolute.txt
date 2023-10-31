@@ -1,0 +1,15 @@
+C:\projet.C#\cod-back\bin\Debug\net6.0\cod-back.exe
+C:\projet.C#\cod-back\bin\Debug\net6.0\cod-back.deps.json
+C:\projet.C#\cod-back\bin\Debug\net6.0\cod-back.runtimeconfig.json
+C:\projet.C#\cod-back\bin\Debug\net6.0\cod-back.dll
+C:\projet.C#\cod-back\bin\Debug\net6.0\cod-back.pdb
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.csproj.AssemblyReference.cache
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.GeneratedMSBuildEditorConfig.editorconfig
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.AssemblyInfoInputs.cache
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.AssemblyInfo.cs
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.csproj.CoreCompileInputs.cache
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.dll
+C:\projet.C#\cod-back\obj\Debug\net6.0\refint\cod-back.dll
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.pdb
+C:\projet.C#\cod-back\obj\Debug\net6.0\cod-back.genruntimeconfig.cache
+C:\projet.C#\cod-back\obj\Debug\net6.0\ref\cod-back.dll
